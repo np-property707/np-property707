@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NP Property | Flats for Rent & Sale in Pune</title>
+    <title>NP Properties | Flats for Rent & Sale in Wakad & Hinjawadi Pune</title>
     <!-- SEO Meta Tags -->
-    <meta name="description" content="Find the perfect flats for rent and sale in Pune. NP Property offers reliable 1, 2, 3, & 4 BHK residential properties, fully furnished and semi-furnished apartments.">
-    <meta name="keywords" content="Property for Rent in Pune, Flats for Sale in Pune, 2 BHK for Rent Pune, 3 BHK for Rent Pune, Real Estate Pune, NP Property">
+    <meta name="description" content="Find the perfect flats for rent and sale in Wakad and Hinjawadi, Pune. NP Properties offers reliable 1, 2, 3, & 4 BHK residential properties, fully furnished apartments.">
+    <meta name="keywords" content="Property for Rent in Pune, Flats for Sale in Pune, 2 BHK for Rent Pune, 3 BHK for Rent Pune, Real Estate Pune, Flats in Wakad, Flats in Hinjawadi, NP Properties">
     <!-- Font Awesome for Icons -->
     <link rel="stylesheet" href="https://cloudflare.com">
     <style>
@@ -391,5 +391,3 @@
             border-radius: 4px;
         }
 
-        .submit-btn {
-            background-color: var(--primary);
